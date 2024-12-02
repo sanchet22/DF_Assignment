@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    text-transform: none;
+  }
+  
+  .table-container {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
